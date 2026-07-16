@@ -7,11 +7,11 @@ It's intended as a learning resource and personal coding archive.
 
 ## 🎯 What You'll Find
 
-* 📖 Well-structured Java implementations of DSA concepts
-* 🧠 Topic-wise practice problems
-* 💡 Multiple approaches for solving problems
-* 📝 Clean and readable code with meaningful variable names
-* 🚀 Solutions ranging from beginner to advanced level
+* Well-structured Java implementations of DSA concepts
+* Topic-wise practice problems
+* Multiple approaches for solving problems
+* Clean and readable code with meaningful variable names
+* Solutions ranging from beginner to advanced level
 
 ## 📂 Topics Covered
 
